@@ -1,4 +1,4 @@
-Addition of two integers:
+1.Addition of two integers:
 
 #include<stdio.h>
 struct sum{
@@ -35,7 +35,7 @@ int main()
 }
 
 
-Addition of two float:
+2.Addition of two float:
 
 
 #include<stdio.h>
@@ -73,12 +73,7 @@ int main()
 }
 
 
-
-
-Compare two numbers:
-
-
-
+3.Compare two numbers:
 #include<stdio.h>
 struct sum{
     int a;
@@ -127,12 +122,7 @@ int main()
 }
 
 
-
-
-
-Compare three numbers:
-
-
+4.Compare three numbers:
 #include<stdio.h>
 struct sum{
     int a;
